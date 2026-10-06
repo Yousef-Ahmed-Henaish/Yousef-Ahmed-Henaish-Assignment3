@@ -41,7 +41,7 @@ public class Order
     
         // Calculate Total Price
         CalculatePrice(Quantity, UnitPrice, DiscountPercent);
-    }
+    } 
     
     public int OrderId;
     public string CustomerName;
